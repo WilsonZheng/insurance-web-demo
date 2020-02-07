@@ -43,7 +43,7 @@ export default function LandingPage(props) {
             <GridItem xs={12} sm={12} md={6}>
               <h1 className={classes.title}>Your Insurance Starts With Us.</h1>
               <h4>
-                By Wilson, a one-handed programmer who hasn't give up coding!
+                By Wilson Z
               </h4>
               <br />
               <Button
